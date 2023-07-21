@@ -1,0 +1,12 @@
+{
+  "name": "exoplanetdetection",
+  "version": "1.0.0",
+  "description": "When a planet travels in front of a star, the total flux/luminosity of the star drops by some amount.",
+  "main": "main.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "python main.py"
+  },
+  "author": "Thenu Kaluarachchi",
+  "license": "ISC"
+}
